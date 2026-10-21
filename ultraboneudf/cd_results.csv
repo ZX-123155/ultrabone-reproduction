@@ -1,0 +1,13 @@
+anatomy,record,cd_recon_to_gt,cd_gt_to_recon,cd_double_side
+fibula,record01,0.628,0.411,0.520
+fibula,record02,0.815,0.415,0.615
+fibula,record03,0.838,0.456,0.647
+fibula,record04,0.816,0.496,0.656
+foot,record05,1.262,0.481,0.872
+foot,record06,2.771,2.105,2.438
+tibia,record07,0.496,0.394,0.445
+tibia,record08,0.404,0.403,0.403
+tibia,record09,0.502,0.456,0.479
+tibia,record10,0.436,0.384,0.410
+tibia,record11,0.455,0.372,0.414
+tibia,record12,0.683,0.378,0.531
